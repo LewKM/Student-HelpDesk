@@ -12,7 +12,7 @@ function Navbar() {
           HELP<span>DESK</span>
         </NavLink>
         <div className="nav__links_wrapper">
-          <NavLink to="/questions" className="nav-link">
+          <NavLink to="/home" className="nav-link">
             HOME
           </NavLink>
           <NavLink to="/ask" className="nav-link">
